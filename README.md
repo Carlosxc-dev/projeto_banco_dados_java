@@ -11,7 +11,8 @@
  <a href="#contribute">Contribute</a>
 </p>
 
-<img src="./trabalhofinal_LA_CASA_PAPEL.png" width="100px;" alt="Carlos Profile Picture"/><br>
+<h2 id="started">🚀 Diagrama de Classe - Banco de dados</h2>
+<img src="trabalhoFinal_LA_CASA_PAPEL.png" width="100%;" alt="Carlos Profile Picture"/><br>
 
 <p align="center">
   <b>
