@@ -11,6 +11,8 @@
  <a href="#contribute">Contribute</a>
 </p>
 
+<img src="./trabalhofinal_LA_CASA_PAPEL.png" width="100px;" alt="Carlos Profile Picture"/><br>
+
 <p align="center">
   <b>
     Este projeto é uma aplicação Java desenvolvida para gerenciar um sistema banco de dados,foi um trabalho proposto para diciplina de Banco de Dados.
